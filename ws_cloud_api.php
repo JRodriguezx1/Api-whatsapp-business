@@ -11,7 +11,7 @@ class ws_cloud_api{
 
     public function send1textws(){
         //token de fb
-        $token="EAAEmL8UtZA0UBOwZCYjCTKDQgJJFhXSB3Y3nlWFJeDV3bH1p5rxFLmyf9LnpOmtJQ2EDJabZCU2dhzW71Kn29sPDdg95Toe6ySPUwJ854HXQGGZCEiX4SJ0LsK6yjM80JfOWHWCPxVoxYN1ItrkQlF8L0Ljp91u6glCEafNRcjsKruezWb4tTzLd7ZAXYGMtt";
+        $token="mi token";
         //telefono al q se va emviar msj
         $telefono="57{$this->ws}";
         //url a donde se enviará el mensaje
