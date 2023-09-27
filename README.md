@@ -9,6 +9,9 @@ Uso de clases php para el manejo de el envio del mensaje por whatsapp
 5. ejecutar el archivo index.php en VS code con la extension php server previamente instalada o en un servidor para php.
 6.  ingresar numero de telefono a enviar mensaje de whatsapp y el mensaje (texto)  listo
 
+NOTA: para enviar mensajes personalizados debe iniciar la conversacion con la linea virtual que te proporciona facebook, cuando pases a produccion no es necesario
+iniciar la conversacion.
+
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
